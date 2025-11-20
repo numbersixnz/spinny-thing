@@ -1,6 +1,6 @@
 # Spinny Thing
 
-Does nothing at all except draw a spinny thing. :)
+Does nothing at all except draw a spinny thing.
 
 ## Requirements
 
